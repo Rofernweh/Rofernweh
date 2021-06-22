@@ -1,2 +1,3 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rofernweh&show_icons=true&theme=react)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Rofernweh&theme=black-ice)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
