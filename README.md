@@ -3,5 +3,3 @@
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rofernweh&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rofernweh&theme=react)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rofernweh)](https://git.io/streak-stats)
