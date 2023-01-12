@@ -12,8 +12,7 @@ Feel free to reach me out via:
 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/rofernweh/)
 [![Email Badge](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:rofernweh@gmail.com)
-[![Reddit Badge](https://img.shields.io/badge/-Reddit-FF4500?style=flat-square&logo=Reddit&logoColor=white)](https://www.reddit.com/user/rofernweeh)
-More about me! I...
+[![Reddit Badge](https://img.shields.io/badge/-Reddit-FF4500?style=flat-square&logo=Reddit&logoColor=white)](https://www.reddit.com/user/rofernweeh).
 ## :toolbox: Languages and tools!
 Here are the languages I have experience with!
 
