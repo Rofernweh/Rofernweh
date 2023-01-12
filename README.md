@@ -1,7 +1,3 @@
-## Hi there, I'm Rodrigo! 
-
-I'm a computer science student in the attempt to make a living out of this hobby named programming learning data structures and web development, also dealing with leetcode easy problems.
-So if you wanna follow my journey, I'll try to tidy the mess i have and try to comment all alongwz
 
 
 
