@@ -2,7 +2,7 @@
 
 
 
-<h1 align="center"><i>Hi there, I'm Rodrigo</i></h1>
+<h1 align="center"><i>Hi there, I'm Rofernweh</i></h1>
 
 My name is **Rofernweh** (not really, not my real name), an undergraduate student in **Computer Science and Engineering** at [Universidad Diego Portales](https://www.udp.cl/)!
 
