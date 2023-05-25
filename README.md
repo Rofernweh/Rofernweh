@@ -17,6 +17,7 @@ Feel free to reach me out via:
 Here are the languages I have experience with!
 
 ### Languages
+![Rust Badge](https://img.shields.io/badge/-Rust-red?style=for-the-badge&logo=Rust&logoColor=white)
 ![C Language Badge](https://img.shields.io/badge/-C_language-A8B9CC?style=for-the-badge&logo=C&logoColor=black)
 ![C++ Badge](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white)
 ![Java Badge](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=Java&logoColor=white)
