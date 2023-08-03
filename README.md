@@ -32,6 +32,7 @@ Feel free to reach me out via:
 
 ![HTML Badge](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white&style=rounded)
 ![CSS Badge](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white&style=rounded)
+![Bootstrap Badge](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white&style=rounded)
 ![React Badge](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=black&style=rounded)
 ![Node.js Badge](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white&style=rounded)
 
