@@ -86,7 +86,7 @@ Feel free to reach me out via:
 
 ### Operating Systems
 
-![Arch Linux Badge](https://img.shields.io/badge/-Arch-1793D1?style=flat-square&logo=Arch&logoColor=white&style=rounded)
+![Arch Linux Badge](https://img.shields.io/badge/-Arch_Linux-1793D1?style=flat-square&logo=Arch+Linux&logoColor=white&style=rounded)
 ![Ubuntu Badge](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white&style=rounded)
 ![Debian Badge](https://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo=Debian&logoColor=white&style=rounded)
 ![Fedora Badge](https://img.shields.io/badge/-Fedora-294172?style=flat-square&logo=Fedora&logoColor=white&style=rounded)
