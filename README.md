@@ -17,7 +17,6 @@ Feel free to reach me out via:
 ![Git Badge](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white&style=rounded)
 ![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white&style=rounded)
 ![GitLab Badge](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=GitLab&logoColor=white&style=rounded)
-![Bitbucket Badge](https://img.shields.io/badge/-Bitbucket-0052CC?style=flat-square&logo=Bitbucket&logoColor=white&style=rounded)
 
 ### Programming Languages
 
