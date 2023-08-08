@@ -25,8 +25,7 @@ Feel free to reach me out via:
 ![C++ Badge](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white&style=rounded)
 ![Rust Badge](https://img.shields.io/badge/-Rust-red?style=flat-square&logo=Rust&logoColor=white&style=rounded)
 ![JavaScript Badge](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black&style=rounded)
-![Java Badge](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white&style=rounded)
-
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white&style=rounded)
 ### Web Development
 
 ![HTML Badge](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white&style=rounded)
