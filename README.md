@@ -93,7 +93,3 @@ Feel free to reach me out via:
 ![macOS Badge](https://img.shields.io/badge/-macOS-black?style=flat-square&logo=Apple&logoColor=white&style=rounded)
 ![Windows Badge](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows&logoColor=white&style=rounded)
 ![Kali Linux Badge](https://img.shields.io/badge/-Kali_Linux-557C94?style=flat-square&logo=Kali+Linux&logoColor=white&style=rounded)
-
-### Other
-
-![REST API Badge](https://img.shields.io/badge/-REST%20API-336791?style=flat-square&logo=API&logoColor=white&style=rounded)
