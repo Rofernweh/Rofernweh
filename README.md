@@ -1,6 +1,6 @@
 <h1 align="center"><i>Hi there, I'm Rofernweh</i></h1>
 
-My name is **Rofernweh** (not really, not my real name), an undergraduate student in **Computer Science and Engineering** at [Universidad Diego Portales](https://www.udp.cl/)!
+My name is **Rofernweh** (not really, not my real name), an undergraduate student in **Civil Engineering in Information Technology and Telecommunications** at [Universidad Diego Portales](https://www.udp.cl/)!
 
 I'm trying to make a living out of this hobby named programming
 
